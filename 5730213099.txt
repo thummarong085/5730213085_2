@@ -1,2 +1,7 @@
 5730213099
+<<<<<<< HEAD
 cvncm
+=======
+bnvbm
+dghfj
+>>>>>>> wish-list
